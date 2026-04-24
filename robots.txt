@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-l7kwzc.locogrid.com/sitemap.xml
